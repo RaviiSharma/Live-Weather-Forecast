@@ -4,7 +4,7 @@
 
 
  <p align="center">
-  View <a href="">Live demo</a>.
+  View <a href="https://ravi-live-weather.netlify.app/">Live demo</a>.
  </p>
 
 ## Setup
